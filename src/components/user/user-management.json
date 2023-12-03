@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_user_user_managements",
+  "info": {
+    "displayName": "User Management",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "Date": {
+      "type": "datetime"
+    }
+  }
+}
